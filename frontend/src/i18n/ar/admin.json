@@ -1,0 +1,81 @@
+{
+  "overview": {
+    "title": "لوحة الإدارة",
+    "today_appointments": "مواعيد اليوم",
+    "revenue_mtd": "الإيرادات هذا الشهر",
+    "new_patients": "مرضى جدد",
+    "completed": "مكتملة",
+    "cancelled": "ملغاة"
+  },
+  "appointments": {
+    "title": "إدارة المواعيد",
+    "reschedule": "إعادة الجدولة",
+    "cancel": "إلغاء",
+    "ref": "رقم الحجز",
+    "patient": "المريض",
+    "doctor": "الطبيب",
+    "date": "التاريخ",
+    "status": "الحالة",
+    "actions": "الإجراءات",
+    "new_datetime": "التاريخ والوقت الجديد",
+    "cancel_reason": "سبب الإلغاء"
+  },
+  "doctors": {
+    "title": "إدارة الأطباء",
+    "add_doctor": "إضافة طبيب",
+    "edit": "تعديل",
+    "deactivate": "إلغاء التفعيل",
+    "schedule": "الجدول",
+    "name_ar": "الاسم بالعربي",
+    "name_en": "الاسم بالإنجليزي",
+    "specialty": "التخصص",
+    "fee": "رسوم الاستشارة (ر.س)",
+    "bio_ar": "نبذة بالعربي",
+    "bio_en": "نبذة بالإنجليزي"
+  },
+  "patients": {
+    "title": "إدارة المرضى",
+    "search": "بحث عن مريض...",
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "national_id": "رقم الهوية",
+    "phone": "الجوال",
+    "registered": "تاريخ التسجيل",
+    "appointments": "المواعيد",
+    "recent_appointments": "المواعيد الأخيرة"
+  },
+  "analytics": {
+    "title": "التحليلات",
+    "today": "اليوم",
+    "this_week": "هذا الأسبوع",
+    "this_month": "هذا الشهر",
+    "custom": "مخصص",
+    "total_appointments": "إجمالي المواعيد",
+    "total_revenue": "إجمالي الإيرادات",
+    "new_patients": "مرضى جدد"
+  },
+  "content": {
+    "title": "إدارة المحتوى",
+    "save_section": "حفظ القسم",
+    "arabic_text": "النص العربي",
+    "english_text": "النص الإنجليزي",
+    "homepage": "الصفحة الرئيسية",
+    "contact": "معلومات التواصل",
+    "saved": "تم الحفظ"
+  },
+  "roles": {
+    "title": "الأدوار والصلاحيات",
+    "create_account": "إنشاء حساب",
+    "role": "الدور",
+    "admin": "مدير",
+    "receptionist": "موظف استقبال",
+    "temp_password_sent": "تم إرسال كلمة مرور مؤقتة بالبريد الإلكتروني"
+  },
+  "specialties": {
+    "title": "إدارة التخصصات",
+    "add_specialty": "إضافة تخصص",
+    "edit": "تعديل",
+    "name_ar": "الاسم بالعربي",
+    "name_en": "الاسم بالإنجليزي"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "home": {
+    "hero_title": "Ibn Sina Medical Care",
+    "hero_subtitle": "Comprehensive healthcare by specialized experts",
+    "book_now": "Book Now",
+    "our_services": "Our Services",
+    "our_doctors": "Our Doctors",
+    "stats_doctors": "Specialist Doctors",
+    "stats_patients": "Satisfied Patients",
+    "stats_years": "Years of Experience",
+    "featured_specialties": "Featured Specialties"
+  },
+  "doctors": {
+    "title": "Our Doctors",
+    "search_placeholder": "Search for a doctor...",
+    "all_specialties": "All Specialties",
+    "no_doctors": "No doctors in this specialty",
+    "consultation_fee": "Consultation Fee",
+    "book_appointment": "Book Appointment",
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "experience": "Years Experience",
+    "rating": "Rating",
+    "loading": "Loading doctors..."
+  },
+  "booking": {
+    "select_date": "Select Date",
+    "select_time": "Select Time",
+    "patient_info": "Patient Information",
+    "name_ar": "Name in Arabic",
+    "phone": "Phone Number",
+    "national_id": "National ID",
+    "proceed_to_payment": "Proceed to Payment",
+    "slot_held_for": "Slot held for",
+    "no_slots": "No available slots on this day",
+    "select_slot_first": "Please select a time slot first"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We provide comprehensive healthcare across a range of medical specialties"
+  }
+}

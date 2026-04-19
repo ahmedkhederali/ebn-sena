@@ -1,0 +1,43 @@
+{
+  "dashboard": {
+    "title": "لوحة تحكم المريض",
+    "next_appointment": "الموعد القادم",
+    "no_upcoming": "لا توجد مواعيد قادمة",
+    "total_appointments": "إجمالي المواعيد",
+    "recent_activity": "النشاط الأخير"
+  },
+  "appointments": {
+    "title": "مواعيدي",
+    "upcoming": "القادمة",
+    "past": "السابقة",
+    "all": "جميعها",
+    "cancel": "إلغاء الموعد",
+    "cancel_confirm": "هل أنت متأكد من إلغاء هذا الموعد؟",
+    "cancel_policy": "يمكن إلغاء الموعد قبل 24 ساعة من موعده",
+    "cannot_cancel": "لا يمكن الإلغاء خلال 24 ساعة من الموعد",
+    "download_receipt": "تحميل الإيصال",
+    "notes": "ملاحظات الطبيب",
+    "no_notes": "لم تُضف ملاحظات بعد",
+    "booking_ref": "رقم الحجز",
+    "status": {
+      "confirmed": "مؤكد",
+      "completed": "مكتمل",
+      "cancelled": "ملغي",
+      "pending-payment": "بانتظار الدفع",
+      "no-show": "لم يحضر"
+    }
+  },
+  "history": {
+    "title": "السجل الطبي",
+    "no_history": "لا يوجد سجل طبي"
+  },
+  "profile": {
+    "title": "الملف الشخصي",
+    "name_ar": "الاسم بالعربي",
+    "name_en": "الاسم بالإنجليزي",
+    "phone": "رقم الجوال",
+    "language": "اللغة المفضلة",
+    "save": "حفظ التغييرات",
+    "saved": "تم الحفظ بنجاح"
+  }
+}

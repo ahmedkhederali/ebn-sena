@@ -1,0 +1,9 @@
+{
+  "name": "ibn-sina-shared",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "exports": {
+    "./types/*": "./types/*.ts"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "dashboard": {
+    "title": "Patient Dashboard",
+    "next_appointment": "Next Appointment",
+    "no_upcoming": "No upcoming appointments",
+    "total_appointments": "Total Appointments",
+    "recent_activity": "Recent Activity"
+  },
+  "appointments": {
+    "title": "My Appointments",
+    "upcoming": "Upcoming",
+    "past": "Past",
+    "all": "All",
+    "cancel": "Cancel Appointment",
+    "cancel_confirm": "Are you sure you want to cancel this appointment?",
+    "cancel_policy": "Appointments can be cancelled up to 24 hours before",
+    "cannot_cancel": "Cannot cancel within 24 hours of appointment",
+    "download_receipt": "Download Receipt",
+    "notes": "Doctor Notes",
+    "no_notes": "No notes added yet",
+    "booking_ref": "Booking Ref",
+    "status": {
+      "confirmed": "Confirmed",
+      "completed": "Completed",
+      "cancelled": "Cancelled",
+      "pending-payment": "Pending Payment",
+      "no-show": "No Show"
+    }
+  },
+  "history": {
+    "title": "Medical History",
+    "no_history": "No medical history"
+  },
+  "profile": {
+    "title": "Profile",
+    "name_ar": "Name in Arabic",
+    "name_en": "Name in English",
+    "phone": "Phone Number",
+    "language": "Preferred Language",
+    "save": "Save Changes",
+    "saved": "Saved successfully"
+  }
+}

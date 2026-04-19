@@ -1,0 +1,44 @@
+{
+  "schedule": {
+    "title": "جدولي",
+    "today": "مواعيد اليوم",
+    "no_appointments": "لا توجد مواعيد اليوم",
+    "calendar": "التقويم",
+    "auto_refresh": "يتجدد تلقائياً كل دقيقة"
+  },
+  "patient": {
+    "info": "معلومات المريض",
+    "history": "التاريخ الطبي مع هذا الطبيب",
+    "no_history": "لا يوجد تاريخ سابق"
+  },
+  "notes": {
+    "title": "ملاحظات الاستشارة",
+    "save": "حفظ الملاحظات",
+    "saved": "تم الحفظ",
+    "edit_expires": "ينتهي وقت التعديل خلال",
+    "edit_closed": "انتهى وقت تعديل الملاحظات (24 ساعة)",
+    "placeholder": "أدخل ملاحظات الاستشارة..."
+  },
+  "status": {
+    "mark_completed": "تحديد كمكتمل",
+    "completed": "مكتمل",
+    "confirm_complete": "هل أنت متأكد من تحديد هذا الموعد كمكتمل؟"
+  },
+  "days": {
+    "Sunday": "الأحد",
+    "Monday": "الاثنين",
+    "Tuesday": "الثلاثاء",
+    "Wednesday": "الأربعاء",
+    "Thursday": "الخميس",
+    "Friday": "الجمعة",
+    "Saturday": "السبت"
+  },
+  "unavailability": {
+    "title": "تعطيل أيام",
+    "start_date": "تاريخ البداية",
+    "end_date": "تاريخ النهاية",
+    "reason": "السبب",
+    "submit": "تعطيل",
+    "cancel": "إلغاء"
+  }
+}

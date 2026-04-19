@@ -1,0 +1,16 @@
+{
+  "welcome": "Welcome",
+  "dashboardSubtitle": "Manage your appointments and track your health",
+  "bookNew": "Book a new appointment",
+  "bookNow": "Book now",
+  "upcomingAppointments": "Upcoming Appointments",
+  "viewAll": "View all",
+  "noUpcoming": "No upcoming appointments",
+  "status": {
+    "pending-payment": "Pending Payment",
+    "confirmed": "Confirmed",
+    "completed": "Completed",
+    "cancelled": "Cancelled",
+    "no-show": "No Show"
+  }
+}

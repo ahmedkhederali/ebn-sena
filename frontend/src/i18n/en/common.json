@@ -1,0 +1,45 @@
+{
+  "siteName": "Ibn Sina",
+  "nav": {
+    "doctors": "Doctors",
+    "services": "Specialties",
+    "bookAppointment": "Book Appointment",
+    "login": "Login",
+    "portal": "My Portal",
+    "logout": "Logout",
+    "dashboard": "Dashboard",
+    "appointments": "Appointments",
+    "myAppointments": "My Appointments",
+    "profile": "Profile",
+    "schedule": "Schedule"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "loading": "Loading...",
+  "error": "An error occurred",
+  "retry": "Retry",
+  "back": "Back",
+  "save": "Save",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "delete": "Delete",
+  "edit": "Edit",
+  "search": "Search",
+  "filter": "Filter",
+  "no_data": "No data",
+  "load_more": "Load More",
+  "page_not_found": "Page Not Found",
+  "go_home": "Go Home",
+  "sar": "SAR",
+  "admin_panel": "Admin Panel",
+  "logout": "Logout",
+  "status": {
+    "confirmed": "Confirmed",
+    "cancelled": "Cancelled",
+    "completed": "Completed",
+    "pending": "Pending",
+    "pending-payment": "Pending Payment",
+    "no-show": "No Show"
+  }
+}

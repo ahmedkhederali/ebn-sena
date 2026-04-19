@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npm run:*)",
+      "Bash(node -e ':*)",
+      "Bash(timeout 8 npx ts-node-dev --transpile-only --no-notify src/server.ts)",
+      "Bash(npm test *)"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "overview": {
+    "title": "Admin Dashboard",
+    "today_appointments": "Today's Appointments",
+    "revenue_mtd": "Revenue MTD",
+    "new_patients": "New Patients",
+    "completed": "Completed",
+    "cancelled": "Cancelled"
+  },
+  "appointments": {
+    "title": "Appointments Management",
+    "reschedule": "Reschedule",
+    "cancel": "Cancel",
+    "ref": "Booking Ref",
+    "patient": "Patient",
+    "doctor": "Doctor",
+    "date": "Date",
+    "status": "Status",
+    "actions": "Actions",
+    "new_datetime": "New Date & Time",
+    "cancel_reason": "Cancellation Reason"
+  },
+  "doctors": {
+    "title": "Doctors Management",
+    "add_doctor": "Add Doctor",
+    "edit": "Edit",
+    "deactivate": "Deactivate",
+    "schedule": "Schedule",
+    "name_ar": "Name in Arabic",
+    "name_en": "Name in English",
+    "specialty": "Specialty",
+    "fee": "Consultation Fee (SAR)",
+    "bio_ar": "Bio in Arabic",
+    "bio_en": "Bio in English"
+  },
+  "patients": {
+    "title": "Patients Management",
+    "search": "Search for patient...",
+    "name": "Name",
+    "email": "Email",
+    "national_id": "National ID",
+    "phone": "Phone",
+    "registered": "Registered",
+    "appointments": "Appointments",
+    "recent_appointments": "Recent Appointments"
+  },
+  "analytics": {
+    "title": "Analytics",
+    "today": "Today",
+    "this_week": "This Week",
+    "this_month": "This Month",
+    "custom": "Custom",
+    "total_appointments": "Total Appointments",
+    "total_revenue": "Total Revenue",
+    "new_patients": "New Patients"
+  },
+  "content": {
+    "title": "Content Management",
+    "save_section": "Save Section",
+    "arabic_text": "Arabic Text",
+    "english_text": "English Text",
+    "homepage": "Homepage",
+    "contact": "Contact Information",
+    "saved": "Saved"
+  },
+  "roles": {
+    "title": "Roles & Permissions",
+    "create_account": "Create Account",
+    "role": "Role",
+    "admin": "Admin",
+    "receptionist": "Receptionist",
+    "temp_password_sent": "Temp password emailed"
+  },
+  "specialties": {
+    "title": "Specialties Management",
+    "add_specialty": "Add Specialty",
+    "edit": "Edit",
+    "name_ar": "Name in Arabic",
+    "name_en": "Name in English" 
+  }
+}

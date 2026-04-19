@@ -1,0 +1,16 @@
+{
+  "welcome": "مرحباً",
+  "dashboardSubtitle": "إدارة مواعيدك ومتابعة صحتك",
+  "bookNew": "حجز موعد جديد",
+  "bookNow": "احجز الآن",
+  "upcomingAppointments": "المواعيد القادمة",
+  "viewAll": "عرض الكل",
+  "noUpcoming": "لا توجد مواعيد قادمة",
+  "status": {
+    "pending-payment": "في انتظار الدفع",
+    "confirmed": "مؤكد",
+    "completed": "منتهي",
+    "cancelled": "ملغي",
+    "no-show": "لم يحضر"
+  }
+}

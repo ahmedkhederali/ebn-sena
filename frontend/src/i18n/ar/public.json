@@ -1,0 +1,42 @@
+{
+  "home": {
+    "hero_title": "ابن سينا للرعاية الطبية",
+    "hero_subtitle": "رعاية صحية متكاملة بأيدي خبراء متخصصين",
+    "book_now": "احجز الآن",
+    "our_services": "خدماتنا",
+    "our_doctors": "أطباؤنا",
+    "stats_doctors": "طبيب متخصص",
+    "stats_patients": "مريض راضٍ",
+    "stats_years": "سنوات خبرة",
+    "featured_specialties": "التخصصات المميزة"
+  },
+  "doctors": {
+    "title": "أطباؤنا",
+    "search_placeholder": "ابحث عن طبيب...",
+    "all_specialties": "جميع التخصصات",
+    "no_doctors": "لا يوجد أطباء في هذا التخصص",
+    "consultation_fee": "رسوم الاستشارة",
+    "book_appointment": "احجز موعد",
+    "available": "متاح",
+    "unavailable": "غير متاح",
+    "experience": "سنوات خبرة",
+    "rating": "تقييم",
+    "loading": "جار تحميل الأطباء..."
+  },
+  "booking": {
+    "select_date": "اختر التاريخ",
+    "select_time": "اختر الوقت",
+    "patient_info": "معلومات المريض",
+    "name_ar": "الاسم بالعربي",
+    "phone": "رقم الجوال",
+    "national_id": "رقم الهوية",
+    "proceed_to_payment": "المتابعة للدفع",
+    "slot_held_for": "تم الحجز المؤقت لمدة",
+    "no_slots": "لا توجد مواعيد متاحة في هذا اليوم",
+    "select_slot_first": "الرجاء اختيار موعد أولاً"
+  },
+  "services": {
+    "title": "خدماتنا",
+    "subtitle": "نقدم رعاية صحية شاملة عبر مجموعة من التخصصات الطبية"
+  }
+}

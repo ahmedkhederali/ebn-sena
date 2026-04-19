@@ -1,0 +1,44 @@
+{
+  "schedule": {
+    "title": "My Schedule",
+    "today": "Today's Appointments",
+    "no_appointments": "No appointments today",
+    "calendar": "Calendar",
+    "auto_refresh": "Auto-refreshes every minute"
+  },
+  "patient": {
+    "info": "Patient Information",
+    "history": "History with this doctor",
+    "no_history": "No previous history"
+  },
+  "notes": {
+    "title": "Consultation Notes",
+    "save": "Save Notes",
+    "saved": "Saved",
+    "edit_expires": "Edit window expires in",
+    "edit_closed": "Note edit window closed (24 hours passed)",
+    "placeholder": "Enter consultation notes..."
+  },
+  "status": {
+    "mark_completed": "Mark Completed",
+    "completed": "Completed",
+    "confirm_complete": "Are you sure you want to mark this appointment as completed?"
+  },
+  "days": {
+    "Sunday": "Sunday",
+    "Monday": "Monday",
+    "Tuesday": "Tuesday",
+    "Wednesday": "Wednesday",
+    "Thursday": "Thursday",
+    "Friday": "Friday",
+    "Saturday": "Saturday"
+  },
+  "unavailability": {
+    "title": "Block Dates",
+    "start_date": "Start Date",
+    "end_date": "End Date",
+    "reason": "Reason",
+    "submit": "Block",
+    "cancel": "Cancel"
+  }
+}
